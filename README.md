@@ -2,7 +2,7 @@
 
 ## Overview
 
-SLT Pro is a Flutter application designed to facilitate [briefly describe the main purpose or functionality of your application, e.g., "real-time inspections," "travel assistance," etc.]. This project serves as a starting point for building robust and user-friendly mobile applications using the Flutter framework.
+SLT Pro is a Flutter application designed to facilitate  real-time inspections. This project serves as a starting point for building robust and user-friendly mobile applications using the Flutter framework.
 
 ## Features
 
